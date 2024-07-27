@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp_libreria.actualizarLibro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_libreria"
+        mc:Ignorable="d"
+        Title="actualizarLibro" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblIsbn" Content="ISBN" HorizontalAlignment="Left" Margin="73,81,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblTitulo" Content="Título libro" HorizontalAlignment="Left" Margin="73,112,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblAutorLibro" Content="Autor" HorizontalAlignment="Left" Margin="73,143,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDisponibilidad" Content="Disponible" HorizontalAlignment="Left" Margin="73,174,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtIsbn" HorizontalAlignment="Left" Margin="179,85,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="238" IsEnabled="False"/>
+        <TextBox x:Name="txtTituloLibro" HorizontalAlignment="Left" Margin="179,116,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="238"/>
+        <TextBox x:Name="txtAutorLibro" HorizontalAlignment="Left" Margin="179,147,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="238"/>
+        <CheckBox x:Name="chkDisponible" Content="Está disponible" HorizontalAlignment="Left" Margin="179,179,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnActualizarLibro" Content="Actualizar libro" HorizontalAlignment="Left" Margin="343,236,0,0" VerticalAlignment="Top" Click="btnActualizarLibro_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|c:\\users\\ivanb\\source\\repos\\wpfapp_libreria\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|c:\\users\\ivanb\\source\\repos\\wpfapp_libreria\\wpfapp1\\agregarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|solutionrelative:wpfapp1\\agregarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|c:\\users\\ivanb\\source\\repos\\wpfapp_libreria\\wpfapp1\\actualizarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|solutionrelative:wpfapp1\\actualizarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|c:\\users\\ivanb\\source\\repos\\wpfapp_libreria\\wpfapp1\\listarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|solutionrelative:wpfapp1\\listarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|c:\\users\\ivanb\\source\\repos\\wpfapp_libreria\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|c:\\users\\ivanb\\source\\repos\\wpfapp_libreria\\wpfapp1\\listarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|solutionrelative:wpfapp1\\listarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|c:\\users\\ivanb\\source\\repos\\wpfapp_libreria\\wpfapp1\\agregarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|solutionrelative:wpfapp1\\agregarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|c:\\users\\ivanb\\source\\repos\\wpfapp_libreria\\wpfapp1\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|solutionrelative:wpfapp1\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|c:\\users\\ivanb\\source\\repos\\wpfapp_libreria\\wpfapp1\\actualizarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8FFC308-C723-4182-A259-8C6461370CF9}|WpfApp1\\WpfApp.csproj|solutionrelative:wpfapp1\\actualizarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:54:09.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "listarLibro.xaml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\listarLibro.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\listarLibro.xaml",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\listarLibro.xaml",
+              "RelativeToolTip": "WpfApp1\\listarLibro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T01:22:10.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "agregarLibro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\agregarLibro.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\agregarLibro.xaml.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\agregarLibro.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\agregarLibro.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:56:40.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "listarLibro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\listarLibro.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\listarLibro.xaml.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\listarLibro.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\listarLibro.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:54:57.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T00:54:12.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "actualizarLibro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\actualizarLibro.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\actualizarLibro.xaml.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\actualizarLibro.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\actualizarLibro.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:27:48.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "agregarLibro.xaml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\agregarLibro.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\agregarLibro.xaml",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\agregarLibro.xaml",
+              "RelativeToolTip": "WpfApp1\\agregarLibro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T01:08:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "libro.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\libro.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\libro.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\libro.cs",
+              "RelativeToolTip": "WpfApp1\\libro.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:43:42.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "actualizarLibro.xaml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\actualizarLibro.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\actualizarLibro.xaml",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\WpfApp_libreria\\WpfApp1\\actualizarLibro.xaml",
+              "RelativeToolTip": "WpfApp1\\actualizarLibro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T01:18:45.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
